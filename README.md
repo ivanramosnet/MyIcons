@@ -1,4 +1,4 @@
 MyIcons
 =======
 
-Quick Icon Plugin for Joomla 3
+Quick Icon Plugin for Joomla!
